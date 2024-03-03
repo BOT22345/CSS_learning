@@ -1,0 +1,31 @@
+                          /* background color property */
+/* #setsbg {
+  color:red;
+  background-color:black;
+} */
+/* ------------------------------------------ */
+                        /* color system (RGB model) */
+/* #first2{
+  color:red;
+  background-color:rgb(246,175,14);
+}
+#second{
+  color:rgb(144,102,144);
+  background-color:lime;
+} */
+/* ------------------------------------------ */
+                      /* color syste (hex model) */
+/* #first{
+  color:red;
+  background-color:#906690;
+}
+#second{
+  color:#E5B604;
+  background-color:lime;
+} */
+/* ------------------------------------------ */
+                        /* color system(alpha channel) */
+/* #first{
+  color:rgb(115,66,152,1);
+  background-color:rgb(232,82,169,0.3);
+} */

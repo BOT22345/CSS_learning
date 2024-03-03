@@ -1,0 +1,19 @@
+body {
+  background-color: black;
+}
+
+/* @media screen and (max-width: 700px) {
+  body {
+    background-color: violet;
+  }
+} */
+@media screen and (min-width: 300px) {
+  body {
+    background-color: orange;
+  }
+}
+/* @media screen and (width: 301px) and(width: 302px)and (width: 303px) and (width: 304px){
+  body {
+    background-color: green;
+  }
+} */

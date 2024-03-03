@@ -1,0 +1,20 @@
+                  /* <!-- background image property --> */
+body{
+  margin:0;
+  padding:0;
+}
+.box{
+  height:500px;
+  width:500px;
+}
+#first_box{
+  background-image:url(/images/CSS_BG_image1.jpg);
+  background-size:500px 500px;
+  background-repeat:no-repeat;
+  background-position:0px 0px; /*first is for horizontal position _ and second value is for vertical position |*/
+  visibility:visible;/* vsiiblity sets the eleiment hidden or visible */
+}
+#second_box{
+  background-image:url(/images/CSS_BG_image2.jpg);
+  bacground-repeat:no-reapeat;
+}

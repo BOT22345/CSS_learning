@@ -1,0 +1,122 @@
+                 /* text align*/
+/*#first{
+text-align:center; 
+}
+#second{
+text-align:right;
+}*/
+/* ------------------------------------------ */
+              /* text decoration*/
+/*#first{
+  text-decoration: underline;
+}
+#second{
+  text-decoration: overline;
+}
+#third{
+  text-decoration: line-through 
+}*/
+/* ------------------------------------------ */
+
+              /* text decoration style*/
+/*
+.box{text-decoration: line-through;}
+#first{
+  text-decoration-style:dashed;
+}
+#second{
+  text-decoration-style:double;
+}
+#third{
+  text-decoration-style:solid;
+}
+#fourth{
+  text-decoration-style:wavy;
+}*/
+/* ------------------------------------------ */
+              /*text decoration style color */
+/*
+.box{text-decoration:underline;
+    text-decoration-style:wavy;}
+#first{
+  text-decoration-color:red;
+}
+#second{
+  text-decoration-color:green;
+}
+#third{
+  text-decoration-color:pink;
+}*/
+/* ------------------------------------------ */
+            /* text transform*/
+/*#first{
+  text-transform: uppercase;
+}
+#second{
+  text-transform:lowercase;
+}
+/*
+/*
+#third{
+  text-transform: capitalize;
+}*/
+/* ------------------------------------------ */
+
+                   /* line height*/
+
+/* #first{
+  line-height:15px;
+}
+#second{
+  line-height:70px;
+} */
+
+/* ------------------------------------------ */
+
+                  /* font size */
+/* #first{
+  font-size:20px;
+}
+#second{
+  font-size:30px;
+}
+#third{
+  font-size:70px;
+} */
+
+/* ------------------------------------------ */
+
+                      /* font weight */
+/* #first{
+  font-weight:500;
+}
+#second{
+  font-weight:800;
+}
+#third{
+  font-size:30px;
+  font-weight:bolder;
+}
+#fourth{
+  font-size:34px;
+} */
+
+/* ------------------------------------------ */
+
+                      /* font-style */
+
+/* #first{
+  font-style:italic;
+}
+#second{
+  font-style:oblique;
+} */
+
+/* ------------------------------------------ */
+                        /* font-family */
+/* #first
+  font-family:"Times New Roman",Fantasy /*Times*//*, serif;
+}
+#second{
+    font-family:Helvetica, sans-serif;
+} */

@@ -1,0 +1,49 @@
+                            /* element selector*/
+/* h1{
+  color:violet;
+} */
+
+/* ------------------------------------- */
+
+                            /* universal selector*/
+/* *{
+  color:orange;
+} */
+/* ------------------------------------- */
+                            /* id selector */
+/* #first{
+  color:orange;
+}
+#second{
+  color:violet;
+} */
+/* ------------------------------------- */
+                              /* class selector */
+/* #first{
+  color:red;
+}
+.first{
+  color:orange;
+} */
+/* ------------------------------------- */
+                             /* group selector */
+/* h1,h2{
+  color:red;
+} */
+/* ------------------------------------- */
+                            /* dedcendant selector */
+p{
+  color:pink;
+}
+h1 p{
+  color:blue;
+}
+p h1{
+  color:blue;
+}
+span h1{
+  color: red;
+}
+span h2{
+  color: violet;
+}

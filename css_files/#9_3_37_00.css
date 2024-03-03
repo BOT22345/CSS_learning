@@ -1,0 +1,40 @@
+/* relative units */
+  /* % */
+/* #first{
+height:200px;
+width:200px;
+background-color:black;
+}
+#second{
+height:50%;
+width:50%;
+background-color:red;
+} */
+  /* em */
+/* #first{
+font-size:50px;
+}
+#second{
+font-size:4em;
+} */
+  /* rem */
+/* html{
+font-size:100px;
+}
+#first{
+font-size:5px;
+}
+#second{
+font-size:4rem;
+}*/
+    /* vh and vw */
+/* #first{
+background-color:red;
+height:50vh;
+width:50vw;
+}
+#second{
+background-color:violet;
+height:50%;
+width:50%;
+} */

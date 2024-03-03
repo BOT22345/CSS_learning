@@ -1,0 +1,43 @@
+/* .box{
+  margin:20px;
+  padding:0px;
+  height:200px;
+  width:200px;
+  border:0px;
+
+} */
+
+/* #first{
+  padding:5px 10px 15px 20px;
+  background-color:red;
+  margin:auto;
+  border:10px double orange;
+}
+#second{ */
+  /* box-sizing:content-box; */
+  /* border-radius:20px;
+  margin:20px;
+  padding:15px 10px 15px 20px;
+  background-color:violet;
+  border:6px dashed white;
+} */
+
+                        /* border-sizing */
+#first{
+  height:20px;
+  width:20px
+  margin:20px;
+  padding:20px;
+  background-color:red;
+  border:10px dashed white;
+  box-sizing:content-box;
+}
+#second{
+  height:20px;
+  width:20px
+  box-sizing:border-box;
+  margin:20px;
+  padding:20px;
+  background-color:violet;
+  border:10px dashed orange;
+}

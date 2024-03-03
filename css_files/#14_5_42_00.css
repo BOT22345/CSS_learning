@@ -1,0 +1,11 @@
+#clicker{
+  height:50px;
+  width:50px;
+  background-color:red;
+}
+#clicker:hover{
+  background-color:orange;
+}
+#clicker:active{
+  background-color:violet;
+}

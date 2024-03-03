@@ -1,0 +1,56 @@
+                          /* display block */
+/* .box{
+  height:100px;
+  width:100px;
+  margin:5px;
+  display:block;
+}
+#first{
+  background-color:green;
+}
+#second{
+  background-color:orange;
+} */
+/* --------------------------------------- */
+                            /* display inline */
+
+/* .box{
+  height:100px;
+  width:100px;
+  margin:5px;
+  display:inline;
+}
+#first{
+  background-color:green;
+}
+#second{
+  background-color:orange;
+} */
+/* --------------------------------------- */
+                              /* display inline-block */
+/* .box{
+  height:100px;
+  width:100px;
+  margin:5px;
+  display:inline-block;
+}
+#first{
+  background-color:green;
+}
+#second{
+  background-color:orange;
+} */
+/* --------------------------------------- */
+                              /* display none */
+/* .box{
+  height:100px;
+  width:100px;
+  margin:5px;
+  }
+#first{
+  display:none;
+  background-color:green;
+}
+#second{
+  background-color:orange;
+} */

@@ -1,0 +1,31 @@
+.box{
+  height:200px;
+  width:200px;
+  background-color:red;
+  margin:5px;
+}
+                          /* position static*/
+#box1{
+  position:static;
+}
+
+                          /* position absolute */
+#box2{
+  position:absolute;
+  top:200px;
+  left:400px;
+  z-index:2;
+  background-color:violet;
+}
+                            /* position relative */
+#box3{
+  position:relative;
+  left:100px;
+  background-color:orange;
+  z-index:1;
+}
+#box4{
+  position:fixed;
+  top:5px;
+  left:250px;
+}
